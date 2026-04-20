@@ -1,4 +1,4 @@
-![header](https://github.com/connieuribe/connieuribe/blob/495eb9cc96ef06186002cd99ea34f8708f976a7b/Connie%20Header.png)
+![header](https://github.com/conyxia/conyxia/blob/main/cover%20pic.png)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+there%2C+welcome!)](https://git.io/typing-svg)
