@@ -7,9 +7,12 @@
 🎓Cybersecurity graduate | 💻Network Defender | 🔍Ethical Hacker | ✈️Veteran |📚Lifelong Learner |🛡️Passionate about Securing Systems 
 
 
+## 🌱 I’m currently learning …
+- Studying for **CySA+**, **CCNA**, and **CISSP**
+  
 ## 🚀 What I'm Working On 
-- Studying for **CCNA**, **CISSP**, and **AWS Cloud Practitioner**
-- Learning **Ansible** for automated infrastructure security
+
+
 
 
   <a href="">
